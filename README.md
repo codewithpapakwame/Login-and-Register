@@ -1,4 +1,4 @@
-# PHP and CSS ONLY Login and REgister
+# PHP and CSS ONLY Login and Register
 This website is cool and the most language is php
 
 # INformation about php and css
